@@ -21,13 +21,13 @@ The dataset used for training and testing the model is available in the `dataset
 
 ## Features
 
-The features used for predicting Mohs hardness include [list the features you used, e.g., mineral composition, density, etc.].
+The features used for predicting Mohs hardness include
 
 ## Dependencies
 
 Make sure you have the following dependencies installed before running the code:
 
-- Python (version X.X.X)
+- Python (version 3.12.0,)
 - NumPy
 - Pandas
 - Scikit-learn
