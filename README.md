@@ -31,7 +31,6 @@ Make sure you have the following dependencies installed before running the code:
 - NumPy
 - Pandas
 - Scikit-learn
-- [Any other dependencies...]
 
 You can install the required packages using the following command:
 
